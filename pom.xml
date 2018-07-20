@@ -9,6 +9,7 @@
 	<modules>
 		<module>SpringCloudEureka</module>
 		<module>SpringCloudRibbon</module>
+		<module>SpringCloudFeign</module>
 	</modules>
 
 	<parent>
