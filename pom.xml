@@ -10,6 +10,7 @@
 		<module>SpringCloudEureka</module>
 		<module>SpringCloudRibbon</module>
 		<module>SpringCloudFeign</module>
+		<module>SpringCloudHystrix</module>
 	</modules>
 
 	<parent>
