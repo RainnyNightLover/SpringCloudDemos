@@ -13,6 +13,7 @@
 		<module>SpringCloudHystrix</module>
 		<module>SpringCloudZuul</module>
 		<module>SpringCloudConfig</module>
+		<module>SpringCloudConfigEureka</module>
 	</modules>
 
 	<parent>
