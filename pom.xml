@@ -11,6 +11,8 @@
 		<module>SpringCloudRibbon</module>
 		<module>SpringCloudFeign</module>
 		<module>SpringCloudHystrix</module>
+		<module>SpringCloudZuul</module>
+		<module>SpringCloudConfig</module>
 	</modules>
 
 	<parent>

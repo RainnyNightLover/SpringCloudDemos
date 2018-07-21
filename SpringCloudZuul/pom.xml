@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.xihuanyuye</groupId>
+    <artifactId>SpringCloudStudy</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+  </parent>
+  <artifactId>SpringCloudZuul</artifactId>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>Zuul</module>
+  	<module>ZuulService</module>
+  	<module>ZuulProvider1</module>
+  	<module>ZuulProvider2</module>
+  	<module>ZuulProvider3</module>
+  	<module>ZuulFilter</module>
+  </modules>
+</project>
